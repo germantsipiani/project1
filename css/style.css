@@ -1,0 +1,114 @@
+.list{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 40px;
+}
+.logo{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.img{
+    width: 558px;
+    height: 579px;
+    display: inline-block;
+    vertical-align: middle;
+
+
+}
+.div1{
+    width:601px;
+    height:579px;
+    display: inline-block;
+    background-color: antiquewhite;
+    vertical-align: middle;
+    
+
+
+
+
+}
+.div2{
+    background-color: aqua;
+    height: 170px;
+
+}
+.div01{
+    width: 1118px;
+    background-color: rgb(42, 128, 128);
+    height: 300px;
+    margin: auto;
+    
+}
+.div0{
+    height: 624px; 
+    width: 1200px;
+    margin: auto;
+}
+.div02{
+    width: 207px;
+    height: 235px;
+    display: inline-block;
+    vertical-align: middle;
+    background-color: azure;
+    margin-top: 50px;
+    margin-left: 50px;
+
+
+}
+.div3{
+    width: 339px;
+height: 81px;
+padding: 29px 91px 29px 27px;
+gap: 10px;
+background-color: aliceblue;
+font-family: 'Roboto Flex', sans-serif;
+font-size: 30px;
+
+}
+.abs{
+    font-family: 'Yellowtail', cursive;
+
+}
+/* fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,700&display=swap');
+.abs2{
+    font-family: 'Roboto Flex', sans-serif;
+    font-size: 50px;
+}
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,500;8..144,700&display=swap');
+
+
+
+.x1{
+    display: inline-block;
+    vertical-align: middle;
+    padding: 10px 0 50px 0px;
+}
+.div4{
+    height: 60px;
+    width: 500px;
+    margin-left: 50px;
+    background-color: beige;
+}
+.p1{
+   
+    margin-top: 50px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font-family: 'Yellowtail', cursive;
+
+}
+
+.header{
+    padding: 69px 0 69px 262px;
+    background-color: rgb(203, 238, 227);
+}
+
+.main{
+
+}
+/*  */

@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../fonts/OpenSans-Italic.eot');
+    src: url('../fonts/OpenSans-Italic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/OpenSans-Italic.woff2') format('woff2'),
+        url('../fonts/OpenSans-Italic.woff') format('woff'),
+        url('../fonts/OpenSans-Italic.ttf') format('truetype'),
+        url('../fonts/OpenSans-Italic.svg#OpenSans-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Yellowtail';
+    src: url('../fonts/roboto/Yellowtail-Regular.eot');
+    src: url('../fonts/roboto/Yellowtail-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/roboto/Yellowtail-Regular.woff2') format('woff2'),
+        url('../fonts/roboto/Yellowtail-Regular.woff') format('woff'),
+        url('../fonts/roboto/Yellowtail-Regular.ttf') format('truetype'),
+        url('../fonts/roboto/Yellowtail-Regular.svg#Yellowtail-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
